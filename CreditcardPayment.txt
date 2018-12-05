@@ -3,4 +3,5 @@ touch to create the file
 git add file name to track the file or to put in staging.
 git init to make the folder git unabled
 git staus to check the status
-Created new branch the name of branch is testing
+Created new branch the name of branch is testi:wq
+ng
