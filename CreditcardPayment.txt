@@ -4,4 +4,5 @@ git add file name to track the file or to put in staging.
 git init to make the folder git unabled
 git staus to check the status
 Created new branch the name of branch is testi:wq
-ng
+I am new code of line in testing branch
+`
